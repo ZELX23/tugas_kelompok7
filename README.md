@@ -4,7 +4,7 @@ Berangotakan:
 -Shadam A Karisma Putra
 -Dea Nurul Hoeriah
 
-Aplikasi sederhana Flutter dengan Interasi API 
+Aplikasi sederhana Flutter dengan Interasi API https://reqres.in/
 
 <img width="383" alt="tambah user" src="https://github.com/ZELX23/tugas_kelompok7/assets/126939411/186ada86-36db-4b14-b432-a752cb826244">.
 <img width="384" alt="detail user" src="https://github.com/ZELX23/tugas_kelompok7/assets/126939411/3ad864a4-0c0d-4792-9808-c0b8db305163">.
